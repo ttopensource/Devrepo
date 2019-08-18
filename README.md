@@ -39,3 +39,4 @@ cluster.sh info   # Shows handy URLs of running cluster
 # Warning! This will remove everything from HDFS
 cluster.sh deploy # Format the cluster and deploy images again
 ```
+# Test for cherry pick
